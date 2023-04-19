@@ -1,7 +1,10 @@
 # About
-<h3>Application created through ReactJS on Scrimba course</h3>
-<p> Provides users with ability to create and save unlimited notes</p>
-<p> Allows notes to be edited</p>
+Application created through ReactJS on Scrimba course.
+
+# Features / Components
+- Provides users with ability to create and save unlimited notes
+- Allows notes to be edited
+- ReactJS
 
 
 # Screenshots (opening page / editor page)
