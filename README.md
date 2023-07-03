@@ -8,6 +8,6 @@ Application created through ReactJS on Scrimba course.
 
 
 # Screenshots (opening page / editor page)
-<img src="screenshot.png" />
-<img src="screenshot1.png" />
-<img src="screenshot2.png" />
+<img src="screenshots/screenshot.png" />
+<img src="screenshots/screenshot1.png" />
+<img src="screenshots/screenshot2.png" />
